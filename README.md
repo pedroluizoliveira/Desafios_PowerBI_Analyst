@@ -1,6 +1,6 @@
 Descrição dos desafios:
 
-  - Desafio_1:
+  - Desafio_1: Analisando dados de um Dashboard de Vendas no Power BI
     
     O objetivo deste projeto era replicar duas páginas já criadas durante o curso com uma sample disponibilizada e adicionar uma terceira página, conforme descrição abaixo:
     
